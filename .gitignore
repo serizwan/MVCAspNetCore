@@ -5,3 +5,5 @@
 /.vs
 /RizTech/.vs/RizTech/v16
 /RizTech/RizTech/obj
+/RizTech/.vs/RizTech
+/RizTech/RizTech/bin/Debug/netcoreapp3.1
