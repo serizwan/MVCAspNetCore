@@ -8,9 +8,13 @@ namespace RizTech.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public ViewResult Index()
         {
-            return "RizTech";
+            return View();
+        }
+        public ViewResult AboutUs()
+        {
+            return View();
         }
     }
 }
